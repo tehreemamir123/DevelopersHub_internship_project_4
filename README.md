@@ -1,16 +1,32 @@
-# api_profile_view
+# 📱 API Profile View  
 
-A new Flutter project.
+A Flutter application that fetches and displays user data from an API.  
+This app demonstrates **API integration, state management, error handling, and clean UI design**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+- Fetch users list from API  
+- View detailed user profile with avatar, name, and email  
+- Error handling with retry option  
+- Loading indicators for better UX  
+- Clean and responsive UI  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ Screenshots  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Users List | User Profile |  
+|------------|--------------|  
+| <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_4/a2fc23bf8d3a5c9f4aeb75d6227b6c8a366d1891/Screenshot%202025-09-08%20095627.png" width="250"> | <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_4/a2fc23bf8d3a5c9f4aeb75d6227b6c8a366d1891/Screenshot%202025-09-08%20095645.png" width="250"> |  
+
+---
+
+## 🛠️ Tech Stack  
+- **Flutter** (Dart)  
+- **http** package for API calls  
+- **Stateful Widgets** for state management  
+- **Material Design** for UI  
+
+---
+
