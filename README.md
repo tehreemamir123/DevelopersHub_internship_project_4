@@ -17,7 +17,7 @@ This app demonstrates **API integration, state management, error handling, and c
 ## 🖼️ Screenshots  
 
 | Users List |  
-|------------|--------------|  
+
 | <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_4/a2fc23bf8d3a5c9f4aeb75d6227b6c8a366d1891/Screenshot%202025-09-08%20095627.png" width="250"> 
 
 ---
